@@ -14,7 +14,7 @@ body {
   background:none repeat scroll 0 0 #eeeeee;
   font-size:16px;
   font-family:"Open Sans",Arial,sans-serif;
-  color:#444;
+  color:#152732;
 }
 h1,h2,h3,h4,h5,h6 {
   color:#152732;
@@ -30,14 +30,14 @@ h5 {font-size:1.1rem;}
 h6 {font-size:0.9rem;}    
 a, a:link, a:visited, a:hover, a:active {
   text-decoration:none;
-  color:#9BB800;
+  color:#65c0f8;
   transition:color 0.20s linear 0s;
   -o-transition:color 0.20s linear 0s;
   -ms-transition:color 0.20s linear 0s;
   -moz-transition:color 0.20s linear 0s;
   -webkit-transition:color 0.20s linear 0s;
 }  
-a:hover {color:#B6C900;}
+a:hover {color:#007fc9;}
 p,li,dl,blockquote,table,kbd {
   font-size: 0.85rem;
   line-height: 1.6;
@@ -107,7 +107,7 @@ dl dd:last-child {margin-bottom:0;}
 abbr {cursor:help;}
 abbr[title] {border-bottom:1px dotted;}
 kbd {
-  background: #152732 none repeat scroll 0 0;
+  background: #321815 none repeat scroll 0 0;
   color: #fff;
   padding: 0.125rem 0.3125rem;
 }
@@ -136,7 +136,7 @@ form {line-height:1.4;}
 nav {
   display:block;
   width:100%;
-  background:#57b3fc
+  background:#65c0f8;
 }
 .line::after, nav::after, .center::after, .box::after, .margin::after, .margin2x::after, .grid.full::after {
   clear:both;
@@ -892,7 +892,7 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
     left:-100%;
     width:100%!important;
     bottom:0;
-    background:none repeat scroll 0 0 #1c3849;
+    background:none repeat scroll 0 0 #d6f13d;
     overflow-y:auto;
     transition:left 0.20s linear 0s;
     -o-transition:left 0.20s linear 0s;
@@ -1110,7 +1110,6 @@ nav.breadcrumb-nav ul li:last-child:after {content:"";}
   padding:0;
   width:100%;
 }
-
 .slogan {
   position: relative;
   right:0;
